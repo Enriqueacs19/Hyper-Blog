@@ -1,6 +1,6 @@
-Esta es la historia de Enrique Cordova
+Esta es la historia de Enrique Córdova
 
-Enrique Cordova tiene 17 años y nació en Perú,
+Enrique Córdova tiene 17 años y nació en Perú,
 viviendo en Trujillo
 
 Hoy aprenderé Git.
