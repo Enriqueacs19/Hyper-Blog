@@ -5,17 +5,23 @@ body {
 }
 
 #cabecera {
-   background-color: #33C;
-   padding: 5px;
-   text-align: center;
-   color: white;
-   font-weight: bold;
+    display: flex;
+    justify-content: space-around;
+    background-color: #33C;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
 }
 
 #cabecera span {
     font-size: 10px;
     font-weight: lighter;
-    margin: 3px;
+    margin: 20px;
+}
+
+#cabecera img {
+    width: 80px;
 }
 
 #container {
